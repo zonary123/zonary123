@@ -14,7 +14,7 @@
 <br>
 <b>Hobbys:</b> Tech Stuff, Web Development
 <br>
-<b>Learning: </b> Bash, java, c++.
+<b>Learning: </b> java, c++.
 </div>
 <br>
 

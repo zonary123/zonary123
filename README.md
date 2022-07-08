@@ -4,7 +4,7 @@
 <div align="center">
 <h2 align="center"> 🕹 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🕹 </h2>
      <div align="center">
-          <img src="./src/img/profile.jpg" className="avatar avatar-user border" align="left-center" width="64px">
+          <img src="./src/img/profile.jpg" align="left-center" width="64px" style="border-radius: 100%;">
      </div>
 <b>Name:</b> Carlos
 <br>

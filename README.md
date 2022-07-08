@@ -16,6 +16,13 @@
 <br>
 <b>Learning: </b> Bash, java, c++.
 </div>
+<br>
+
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=react">
+     <br><br>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=react">
+</p>
 
 <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝 </h2>
 <br>
@@ -51,19 +58,4 @@
 <p align="center">
      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
-
-</p>
-
-<h2 align="center">📈 ~ 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 ~ 📈</h2>
-
-<br>
-
-<p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=onedark">
-</p>
-<h2 align="center">~ 𝓣𝓸𝓹 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 ~</h2>
-
-<br>
-<p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=onedark">
 </p>

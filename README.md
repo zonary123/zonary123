@@ -21,11 +21,10 @@
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=react">
      <br><br>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=react">
+     <img src="https://lanyard-profile-readme.vercel.app/api/354295918855454721">
+     <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=react">
 </p>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/354295918855454721)](https://discord.com/users/354295918855454721)
-
 
 <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝 </h2>
 <br>

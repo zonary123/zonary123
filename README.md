@@ -4,7 +4,7 @@
 <div align="center">
 <h2 align="center"> 🕹 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🕹 </h2>
      <div align="center">
-          <img src="./src/img/profile.jpg" align="left-center" width="64px">
+          <img src="./src/img/profile.jpg" class="avatar avatar-user border" align="left-center" width="64px">
      </div>
 <b>Name:</b> Carlos
 <br>
@@ -21,9 +21,9 @@
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=react">
      <br><br>
-     <img src="https://lanyard-profile-readme.vercel.app/api/354295918855454721">
+     <a href="https://discord.com/users/354295918855454721"><img src="https://lanyard-profile-readme.vercel.app/api/354295918855454721"></img></a>
      <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=react">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=react">
 </p>
 
 <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝 </h2>

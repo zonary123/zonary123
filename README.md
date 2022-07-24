@@ -6,7 +6,7 @@
      <div align="center">
           <img src="./src/img/profile.jpg" align="left-center" width="64px">
      </div>
-<b style="color: blue;">Name:</b> Carlos
+<b>Name:</b> Carlos
 <br>
 <b>Loves:</b> anime, videogames
 <br>
@@ -53,6 +53,7 @@
 <p align="center">
      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" />
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
 </p>  
 
 <h2 align="center"> ~ 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼 ~ </h2>

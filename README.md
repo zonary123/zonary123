@@ -48,17 +48,18 @@
      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
 </p>
 
-<h2 align="center"> ~ 👨🏻‍💻 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 ~ 👨🏻‍💻 </h2>
-<br>
-<p align="center">
-     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
-     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" />
-     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
-</p>  
-
 <h2 align="center"> ~ 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼 ~ </h2>
 <br>
 <p align="center">
      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
 </p>
+
+<h2 align="center"> ~ 👨🏻‍💻 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 ~ 👨🏻‍💻 </h2>
+<br>
+<p align="center">
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" />
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
+     <img src="" />
+</p>  

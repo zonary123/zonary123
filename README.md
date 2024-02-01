@@ -1,7 +1,7 @@
 <h2 align = 'center'>Hi! I'm Zonary123 👋</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
 </p>
 
   Web: [zonary123.github.io](https://zonary123.github.io/)
@@ -26,7 +26,8 @@
 ## Contact
 
 <div align='center'>
-<div><a href="mailto:carlosvarasalonso10@gmail.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a><span>carlosvarasalonso10@gmail.com</span></div>
+<a href="mailto:carlosvarasalonso10@gmail.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="carlosvarasalonso10@gmail.com"></a>
+<a href="https://www.linkedin.com/in/carlos-varas-alonso-7324a72b2/"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"></a>
 </div>
 
 ## Languages
@@ -41,14 +42,15 @@
 ## Frameworks
 
    <div align="center">
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
   </div>
 
 ## Tools
 
-   <p align="center">
+   <div align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" />
-   </p>
+   </div>

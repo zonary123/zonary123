@@ -7,7 +7,7 @@
   Web: [zonary123.github.io](https://zonary123.github.io/)
 
   ```diff
-  🌎 Empece en el mundo de la programacion en 2021.
+  🌎 Empece en el mundo de la programacion en 2022.
   ```
 
 <hr>

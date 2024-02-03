@@ -4,13 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
 </p>
 
-  Web: [zonary123.github.io](https://zonary123.github.io/)
+<a href="https://zonary123.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+</a>
 
   ```diff
   🌎 Empece en el mundo de la programacion en 2022.
   ```
 
-<hr>
+<!-- <hr>
 
 ### Stats
 
@@ -20,37 +21,44 @@
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=zonary123&show_icons=true&theme=tokyonight&layout=compact)
 </div>
+-->
+<hr> 
 
-<hr>
 
-## Contact
+<h3>📫 Contact Me</h3>
 
-<div align='center'>
-<a href="mailto:carlosvarasalonso10@gmail.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="carlosvarasalonso10@gmail.com"></a>
-<a href="https://www.linkedin.com/in/carlos-varas-alonso-7324a72b2/"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"></a>
-</div>
+<a href="mailto:carlosvarasalonso10@gmail.com" alt="carlosvarasalonso10@gmail.com"> ![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 
-## Languages
+<a href="https://www.linkedin.com/in/carlos-varas-alonso-7324a72b2/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
 
-   <div align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
-   </div>  
+<h3>👨‍💻 Programming and Markup Languages</h3</h3>
 
-## Frameworks
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<h3>🧰 Frameworks and Libraries</h3>
 
-   <div align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
-  </div>
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Tools
+![tailwindcss](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-   <div align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" />
-   </div>
+
+<h3>Databases and Cloud Hosting</h3>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<h3>💻 Software and Tools</h3>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</section>

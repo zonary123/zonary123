@@ -29,7 +29,7 @@
 
 <h3>📫 Contact Me</h3>
 
-<a href="mailto:carlosvarasalonso10@gmail.com" alt="carlosvarasalonso10@gmail.com"> ![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="mailto:carlosvarasalonso10@gmail.com"> ![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 
 <a href="https://www.linkedin.com/in/carlos-varas-alonso-7324a72b2/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
@@ -39,18 +39,25 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<<<<<<< HEAD
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+=======
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+>>>>>>> 0835e9cc74b768c0428fc834de007e2174b9a40a
 
 <h3>🧰 Frameworks and Libraries</h3>
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+<<<<<<< HEAD
 
 <h3>🗄 Databases and Cloud Hosting</h3>
+=======
+<h3>Databases and Cloud Hosting</h3>
+>>>>>>> 0835e9cc74b768c0428fc834de007e2174b9a40a
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue)

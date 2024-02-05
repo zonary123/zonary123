@@ -52,12 +52,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<<<<<<< HEAD
-
 <h3>🗄 Databases and Cloud Hosting</h3>
-=======
-<h3>Databases and Cloud Hosting</h3>
->>>>>>> 0835e9cc74b768c0428fc834de007e2174b9a40a
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue)

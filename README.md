@@ -30,9 +30,8 @@
 
 <h3>📫 Contact Me</h3>
 
-<a href="mailto:carlosvarasalonso10@gmail.com"> ![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
-<a href="https://www.linkedin.com/in/carlos-varas-alonso-7324a72b2/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+<a href="mailto:carlosvarasalonso10@gmail.com">![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/carlos-varas-alonso-7324a72b2/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 <h3>👨‍💻 Programming and Markup Languages </h3>

@@ -7,6 +7,11 @@
 <a href="https://zonary123.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 </a>
 
+<h3>Support me</h3>
+
+<a href="https://ko-fi.com/zonary123">![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+</a>
+<a href="https://www.paypal.com/paypalme/zonary123">![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)</a>
 <h3>👨‍🎓 About Me</h3>
 
 

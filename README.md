@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
 </p>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W010NUWN)
+
 <a href="https://zonary123.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 </a>
 

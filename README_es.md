@@ -1,16 +1,16 @@
 <div align="right">
-  <strong>🇺🇸 English</strong> &nbsp; | &nbsp; <a href="./README_es.md">🇪🇸 Español</a>
+  <a href="./README.md">🇺🇸 English</a> &nbsp; | &nbsp; <strong>🇪🇸 Español</strong>
 </div>
 
-<h1 align="center">Hi! I'm Carlos (zonary123) 👋</h1>
+<h1 align="center">¡Hola! Soy Carlos (zonary123) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Specialist;Minecraft+Modder;Cybersecurity+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Especialista+en+Backend;Minecraft+Modder;Estudiante+de+Ciberseguridad" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://zonary123.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portafolio" />
   </a>
   <a href="https://www.linkedin.com/in/carlos-varas-alonso-7324a72b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,29 +22,29 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mí
 
-I am a **Full Stack Developer** from Salamanca, Spain, driven by a passion for general programming and the satisfaction of building systems that actually work. My focus is on finding the most modern and efficient solutions, avoiding outdated practices.
+Soy un **Desarrollador Full Stack** de Salamanca, España, impulsado por la pasión por la programación general y la satisfacción de construir sistemas que realmente funcionen. Mi enfoque es encontrar las soluciones más modernas y eficientes, evitando prácticas obsoletas.
 
-- 🚀 **Philosophy:** Continuous learning and staying up-to-date with the best architectures and technologies. I don't settle for "good enough" if a better solution exists.
-- ⚡ **Passion:** Building things from scratch. While I have a background in Minecraft modding, my true love is the process of programming and seeing a project come to life.
-- 🛡️ **Current Objective:** Mastering **Cybersecurity** to build systems that are not only efficient but also inherently secure.
+- 🚀 **Filosofía:** Aprendizaje continuo y estar al día con las mejores arquitecturas y tecnologías. No me conformo con "suficiente" si existe una solución mejor.
+- ⚡ **Pasión:** Construir cosas desde cero. Aunque tengo experiencia en modding de Minecraft, mi verdadero amor es el proceso de programar y ver cómo un proyecto cobra vida.
+- 🛡️ **Objetivo Actual:** Dominar la **Ciberseguridad** para construir sistemas que no solo sean eficientes, sino inherentemente seguros.
 
 <p align="center">
   <br/>
   <a href="https://zonary123.github.io/">
-    <b>✨ For more details about my journey and technical experience, visit my website ✨</b>
+    <b>✨ Para saber más detalles sobre mi trayectoria y experiencia técnica, visita mi página web ✨</b>
   </a>
   <br/>
 </p>
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Habilidades Técnicas
 
 <div align="center">
 
-#### 🏗️ Backend Development
+#### 🏗️ Desarrollo Backend
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -53,7 +53,7 @@ I am a **Full Stack Developer** from Salamanca, Spain, driven by a passion for g
 
 <br/>
 
-#### 🗄️ Databases & Cache
+#### 🗄️ Bases de Datos y Cache
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -61,7 +61,7 @@ I am a **Full Stack Developer** from Salamanca, Spain, driven by a passion for g
 
 <br/>
 
-#### 🎨 Frontend & Design
+#### 🎨 Frontend y Diseño
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -69,31 +69,31 @@ I am a **Full Stack Developer** from Salamanca, Spain, driven by a passion for g
 
 <br/>
 
-#### 🛠️ DevOps & Tools
+#### 🛠️ DevOps y Herramientas
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Ciberseguridad-FF0000?style=for-the-badge&logo=target&logoColor=white" />
 
 </div>
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="Zonary123 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zonary123&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="Estadísticas de Zonary123" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zonary123&show_icons=true&theme=tokyonight&layout=compact" alt="Lenguajes principales" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonary123&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonary123&theme=tokyonight" alt="Racha en GitHub" />
 </div>
 
 ---
 
-### ☕ Support Me
+### ☕ Apóyame
 
 <p align="left">
   <a href="https://ko-fi.com/W7W010NUWN">
@@ -105,5 +105,5 @@ I am a **Full Stack Developer** from Salamanca, Spain, driven by a passion for g
 </p>
 
 <p align="center">
-  <i>"Always learning, always building."</i>
+  <i>"Aprendiendo siempre, construyendo siempre."</i>
 </p>

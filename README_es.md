@@ -5,7 +5,7 @@
 <h1 align="center">¡Hola! Soy Carlos (zonary123) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Especialista+en+Backend;Minecraft+Modder;Estudiante+de+Ciberseguridad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software;Especialista+en+Backend;Minecraft+Modder;Estudiante+de+Ciberseguridad" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,13 +22,11 @@
 
 ---
 
-### 👨‍💻 Sobre Mí
+Soy un **Desarrollador de Software** de Salamanca, España. Mi motor es la curiosidad y el placer de ver cómo las piezas de un sistema encajan y funcionan a la perfección. No me detengo en "que funcione"; busco la solución más limpia y moderna posible.
 
-Soy un **Desarrollador Full Stack** de Salamanca, España, impulsado por la pasión por la programación general y la satisfacción de construir sistemas que realmente funcionen. Mi enfoque es encontrar las soluciones más modernas y eficientes, evitando prácticas obsoletas.
-
-- 🚀 **Filosofía:** Aprendizaje continuo y estar al día con las mejores arquitecturas y tecnologías. No me conformo con "suficiente" si existe una solución mejor.
-- ⚡ **Pasión:** Construir cosas desde cero. Aunque tengo experiencia en modding de Minecraft, mi verdadero amor es el proceso de programar y ver cómo un proyecto cobra vida.
-- 🛡️ **Objetivo Actual:** Dominar la **Ciberseguridad** para construir sistemas que no solo sean eficientes, sino inherentemente seguros.
+- 🚀 **Filosofía:** El aprendizaje no tiene meta. Me esfuerzo por dominar las mejores arquitecturas actuales para no depender de soluciones obsoletas o ineficientes.
+- ⚡ **Pasión:** Programar es mi forma de crear. Aunque el modding de Minecraft me ha enseñado mucho sobre optimización, mi verdadera pasión es el proceso de idear, codificar y dar vida a cualquier software funcional.
+- 🛡️ **Objetivo Actual:** Mi meta ahora es la **Ciberseguridad**, uniendo mis bases de desarrollo con la protección de sistemas para crear software verdaderamente invulnerable.
 
 <p align="center">
   <br/>

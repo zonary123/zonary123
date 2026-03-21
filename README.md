@@ -5,7 +5,7 @@
 <h1 align="center">Hi! I'm Carlos (zonary123) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Specialist;Minecraft+Modder;Cybersecurity+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+Specialist;Minecraft+Modder;Cybersecurity+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,12 +22,10 @@
 
 ---
 
-### 👨‍💻 About Me
+I am a **Software Developer** from Salamanca, Spain. My primary drive is curiosity and the satisfaction of seeing how the pieces of a system fit together and work perfectly. I don't settle for "just working"; I strive for the cleanest and most modern solution possible.
 
-I am a **Full Stack Developer** from Salamanca, Spain, driven by a passion for general programming and the satisfaction of building systems that actually work. My focus is on finding the most modern and efficient solutions, avoiding outdated practices.
-
-- 🚀 **Philosophy:** Continuous learning and staying up-to-date with the best architectures and technologies. I don't settle for "good enough" if a better solution exists.
-- ⚡ **Passion:** Building things from scratch. While I have a background in Minecraft modding, my true love is the process of programming and seeing a project come to life.
+- 🚀 **Philosophy:** Learning has no finish line. I focus on mastering modern architectures to avoid being tied to outdated or inefficient practices.
+- ⚡ **Passion:** Programming is my way of creating. While Minecraft modding has taught me much about optimization, my true passion is the process of ideating, coding, and bringing functional software to life.
 - 🛡️ **Current Objective:** Mastering **Cybersecurity** to build systems that are not only efficient but also inherently secure.
 
 <p align="center">

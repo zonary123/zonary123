@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run every day at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 0 * * *' # Run every day at midnight UTC
+  workflow_dispatch: # Allow manual trigger
   push:
     branches:
       - main
@@ -13,11 +13,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
       - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
         with:
@@ -28,7 +30,7 @@ jobs:
             dist/github-contribution-grid-snake-bright.svg?palette=github-light
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

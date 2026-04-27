@@ -60,16 +60,6 @@
 
 ---
 
-<!-- 🏆 GitHub Trophies -->
-
-## <img src="https://media.giphy.com/media/4rZA5D22301iWtO6pl/giphy.gif" width="35"> Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zonary123&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 <!-- 🛠️ Tech Arsenal -->
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvaHvW5SU8ua/giphy.gif" width="35"> Tech Arsenal
@@ -163,7 +153,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCG8XH/giphy.gif" width="35"> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&rank_icon=default" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="180em"/>
 </p>
 

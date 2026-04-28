@@ -197,9 +197,6 @@
   <a href="https://www.paypal.com/paypalme/zonary123">
     <img src="https://img.shields.io/badge/💰%20PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
-  <a href="https://github.com/sponsors/zonary123">
-    <img src="https://img.shields.io/badge/❤️%20Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white"/>
-  </a>
 </p>
 
 ---

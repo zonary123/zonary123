@@ -157,7 +157,7 @@ I am especially interested in the intersection of software development, architec
     <img src="https://www.hackthebox.com/badge/image/3128932" alt="HackTheBox Stats" width="350"/>
   </a>
   <a href="https://tryhackme.com/p/zonary123">
-    <img src="assets/thm_propic.png" alt="TryHackMe Stats" width="350"/>
+    <img src="tryhackme.svg" alt="TryHackMe Stats" width="350"/>
   </a>
   <br/>
   <br/>

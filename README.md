@@ -154,10 +154,10 @@ I am especially interested in the intersection of software development, architec
   <br/>
   <br/>
   <a href="https://app.hackthebox.com/public/users/3128932">
-    <img src="https://www.hackthebox.com/badge/image/3128932" alt="HackTheBox Stats" width="350"/>
+    <img src="https://www.hackthebox.com/badge/image/3128932" alt="HackTheBox Stats"/>
   </a>
   <a href="https://tryhackme.com/p/zonary123">
-    <img src="tryhackme.svg" alt="TryHackMe Stats" width="350"/>
+    <img src="./assets/thm_badge.svg" alt="TryHackMe Stats"/>
   </a>
   <br/>
   <br/>

@@ -157,7 +157,7 @@ Me interesa especialmente la intersección entre desarrollo, arquitectura y cibe
     <img src="https://www.hackthebox.com/badge/image/3128932" alt="HackTheBox Stats"/>
   </a>
   <a href="https://tryhackme.com/p/zonary123">
-    <img src="tryhackme.svg" alt="TryHackMe Stats"/>
+    <img src="./assets/thm_badge.svg" alt="TryHackMe Stats"/>
   </a>
   <br/>
   <br/>

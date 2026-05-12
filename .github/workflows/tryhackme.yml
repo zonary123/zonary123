@@ -10,7 +10,7 @@ on:
       - master
 jobs:
   tryhackme-badge-update:
-    name: Update this repo's tryhackme badge
+    name: Update this repo's tryhackme badge with the latest tryhackme image badge
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -23,11 +23,3 @@ jobs:
         with:
           username: 'zonary123'
           theme: 'midnight'
-
-      - name: Commit and push badge
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add tryhackme.svg
-          git commit -m "Update TryHackMe badge [skip ci]" || exit 0
-          git push

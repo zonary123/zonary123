@@ -14,6 +14,15 @@
   <a href="https://www.linkedin.com/in/carlos-varas-alonso-7324a72b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://leetcode.com/u/zonary123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://app.hackthebox.com/public/users/3128932">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hack-the-box&logoColor=9FEF00" alt="HackTheBox"/>
+  </a>
+  <a href="https://tryhackme.com/p/zonary123">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
   <a href="mailto:carlosvarasalonso10@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -133,11 +142,30 @@ I am especially interested in the intersection of software development, architec
 
 ---
 
-## GitHub Activity
+## Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="170"/>
+  <br/>
+  <a href="https://leetcode.com/u/zonary123/">
+    <img src="https://leetcard.jacoblin.cool/zonary123?theme=dark" height="170"/>
+  </a>
+  <br/>
+  <br/>
+  <a href="https://app.hackthebox.com/public/users/3128932">
+    <img src="https://www.hackthebox.com/badge/image/3128932" alt="HackTheBox Stats" width="350"/>
+  </a>
+  <a href="https://tryhackme.com/p/zonary123">
+    <img src="assets/thm_propic.png" alt="TryHackMe Stats" width="350"/>
+  </a>
+  <br/>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zonary123/zonary123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zonary123/zonary123/output/github-contribution-grid-snake-bright.svg">
+    <img alt="GitHub Contributions Snake" src="https://raw.githubusercontent.com/Zonary123/zonary123/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---

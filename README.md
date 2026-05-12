@@ -147,13 +147,16 @@ I am especially interested in the intersection of software development, architec
 <div align="center">
   <a href="https://leetcode.com/u/zonary123/">
     <img src="https://leetcard.jacoblin.cool/zonary123?theme=dark" height="170"/>
-  </a>
+  </a> 
+  <br/> 
   <a href="https://app.hackthebox.com/public/users/3128932">
     <img src="https://www.hackthebox.com/badge/image/3128932" alt="HackTheBox Stats"/>
-  </a>
+  </a>  
+  <br/>
   <a href="https://tryhackme.com/p/zonary123">
     <img src="./assets/thm_badge.svg" alt="TryHackMe Stats"/>
-  </a>
+  </a>  
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zonary123/zonary123/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zonary123/zonary123/output/github-contribution-grid-snake-bright.svg">

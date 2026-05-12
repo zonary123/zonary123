@@ -148,12 +148,15 @@ Me interesa especialmente la intersección entre desarrollo, arquitectura y cibe
   <a href="https://leetcode.com/u/zonary123/">
     <img src="https://leetcard.jacoblin.cool/zonary123?theme=dark" height="170"/>
   </a>
+  <br/>
   <a href="https://app.hackthebox.com/public/users/3128932">
     <img src="https://www.hackthebox.com/badge/image/3128932" alt="HackTheBox Stats"/>
   </a>
+  <br/>
   <a href="https://tryhackme.com/p/zonary123">
     <img src="./assets/thm_badge.svg" alt="TryHackMe Stats"/>
   </a>
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zonary123/zonary123/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zonary123/zonary123/output/github-contribution-grid-snake-bright.svg">

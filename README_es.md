@@ -22,15 +22,6 @@
   <a href="https://www.linkedin.com/in/carlos-varas-alonso-7324a72b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/zonary123/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://app.hackthebox.com/public/users/3128932">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hack-the-box&logoColor=9FEF00" alt="HackTheBox"/>
-  </a>
-  <a href="https://tryhackme.com/p/zonary123">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-  </a>
   <a href="mailto:carlosvarasalonso10@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>

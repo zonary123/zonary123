@@ -3,9 +3,17 @@
 <div align="right">
   <img src="https://img.shields.io/badge/English-Active-36BCF7?style=flat-square" alt="English Version"/>
   <a href="./README_es.md">
-    <img src="https://img.shields.io/badge/Espanol-Disponible-6DB33F?style=flat-square" alt="Version en Espanol"/>
+    <img src="https://img.shields.io/badge/Spanish-Available-6DB33F?style=flat-square" alt="Spanish Version"/>
   </a>
 </div>
+
+## What I Can Offer
+
+- End-to-end fullstack development: from UI and API to database and deployment.
+- Security-first development mindset: validation, hardening, and best practices.
+- Total adaptability to project context: I build, fix, and optimize whatever is needed.
+
+---
 
 <div align="center">
   <a href="https://zonary123.github.io/">
@@ -13,15 +21,6 @@
   </a>
   <a href="https://www.linkedin.com/in/carlos-varas-alonso-7324a72b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/zonary123/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://app.hackthebox.com/public/users/3128932">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hack-the-box&logoColor=9FEF00" alt="HackTheBox"/>
-  </a>
-  <a href="https://tryhackme.com/p/zonary123">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
   <a href="mailto:carlosvarasalonso10@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -34,7 +33,7 @@
 
 <p>
 Fullstack developer in training since 2022, focused on building secure, maintainable, and scalable systems.
-I am especially interested in the intersection of software development, architecture, and practical cybersecurity.
+I am especially interested in the intersection of development, architecture, and practical cybersecurity.
 </p>
 
 <p>
@@ -43,14 +42,6 @@ I am especially interested in the intersection of software development, architec
   <img src="https://img.shields.io/badge/Focus-Security%20First-0D1117?style=flat-square"/>
   <img src="https://img.shields.io/badge/Status-Learning%20every%20day-36BCF7?style=flat-square"/>
 </p>
-
----
-
-## What I Can Contribute
-
-- End-to-end fullstack development: from UI and API to data and deployment.
-- Security-first engineering mindset: validation, hardening, and practical safeguards.
-- High adaptability to project needs: I build, fix, and optimize whatever is required.
 
 ---
 
@@ -142,20 +133,20 @@ I am especially interested in the intersection of software development, architec
 
 ---
 
-## Activity & Stats
+## Activity and Statistics
 
 <div align="center">
   <a href="https://leetcode.com/u/zonary123/">
     <img src="https://leetcard.jacoblin.cool/zonary123?theme=dark" height="170"/>
-  </a> 
-  <br/> 
+  </a>
+  <br/>
   <a href="https://app.hackthebox.com/public/users/3128932">
     <img src="https://www.hackthebox.com/badge/image/3128932" alt="HackTheBox Stats"/>
-  </a>  
+  </a>
   <br/>
   <a href="https://tryhackme.com/p/zonary123">
     <img src="./assets/thm_badge.svg" alt="TryHackMe Stats"/>
-  </a>  
+  </a>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zonary123/zonary123/output/github-contribution-grid-snake-dark.svg">

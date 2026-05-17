@@ -42,6 +42,7 @@ I am especially interested in the intersection of development, architecture, and
   <img src="https://img.shields.io/badge/Focus-Security%20First-0D1117?style=flat-square"/>
   <img src="https://img.shields.io/badge/Status-Learning%20every%20day-36BCF7?style=flat-square"/>
 </p>
+
 ---
 
 ## Tech Stack
